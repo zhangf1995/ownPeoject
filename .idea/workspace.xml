@@ -1,83 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6e3b0d-c5ad-484c-bc49-4d8280a2407d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ownPeoject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/common-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/product-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ownPeoject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/src/main/java/com/own/common/OwnCommonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/src/main/java/com/own/common/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/src/test/java/com/own/common/OwnCommonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/classes/com/own/common/OwnCommonApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/classes/com/own/common/TestOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/common-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/surefire-reports/TEST-com.own.common.OwnCommonApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/surefire-reports/com.own.common.OwnCommonApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_common/target/test-classes/com/own/common/OwnCommonApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/src/main/java/com/own_product/OwnProductApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/src/test/java/com/own_product/OwnProductApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/classes/com/own_product/OwnProductApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/product-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/surefire-reports/TEST-com.own_product.OwnProductApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/surefire-reports/com.own_product.OwnProductApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_product/target/test-classes/com/own_product/OwnProductApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/OwnTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/controller/SeckillController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/service/SecKillService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/service/impl/SecKillServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/to/SecKillTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/src/test/java/com/own/test/OwnTestApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/classes/com/own/test/OwnTestApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/classes/com/own/test/controller/MiaoShaController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/surefire-reports/TEST-com.own.test.OwnTestApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/surefire-reports/com.own.test.OwnTestApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/test-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_test/target/test-classes/com/own/test/OwnTestApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="7e6e3b0d-c5ad-484c-bc49-4d8280a2407d" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/own_common/src/main/java/com/own/common/config/RedissonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/own_common/src/main/java/com/own/common/config/RedissonPropertise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/own_common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/own_common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/own_common/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/service/impl/SecKillServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/service/impl/SecKillServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/to/SecKillTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/own_test/src/main/java/com/own/test/to/SecKillTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/own_test/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/own_test/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +52,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20574713" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.own.common.config" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TestOne">
     <configuration name="OwnCommonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -178,17 +115,52 @@
       <option name="presentableId" value="Default" />
       <updated>1589810768176</updated>
     </task>
+    <task id="LOCAL-00001" summary="gitignore">
+      <created>1590241260154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590241260154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1590241352772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590241352772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="227" key="#Project_Structure" timestamp="1589810965519">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="227" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1589810965519" />
-    <state x="518" y="163" key="CommitChangelistDialog2" timestamp="1590241259831">
+    <state x="709" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1590243985617">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="518" y="163" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1590241259831" />
+    <state x="709" y="284" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1590243985617" />
+    <state x="518" y="163" key="CommitChangelistDialog2" timestamp="1590241398430">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="518" y="163" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1590241398430" />
     <state x="758" y="465" width="413" height="190" key="Github.ShareDialog" timestamp="1590240928211">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -217,17 +189,21 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="384" y="143" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1589853289621" />
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1590241273260">
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1590241358192">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1590241273260" />
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1590241358192" />
+    <state x="551" y="329" width="689" height="462" key="find.popup" timestamp="1590243394905">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="551" y="329" width="689" height="462" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1590243394905" />
     <state x="273" y="260" key="new project wizard" timestamp="1589898840797">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="273" y="260" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1589898840797" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1590231448445">
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1590244268935">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1590231448445" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1590244268935" />
   </component>
 </project>
