@@ -16,4 +16,5 @@ public class SecKillTo {
     private BigDecimal price;
     private Date seckillStartTime;
     private Date seckillEndTime;
+    private Integer limitNum;
 }

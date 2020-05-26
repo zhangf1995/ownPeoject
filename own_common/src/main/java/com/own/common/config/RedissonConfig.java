@@ -21,8 +21,6 @@ public class RedissonConfig {
     private String host;
     @Value("${spring.redis.port}")
     private String port;
-    @Value("${spring.redis.password}")
-    private String password;
 
     /**
      * RedissonClient,单机模式
@@ -33,9 +31,6 @@ public class RedissonConfig {
         SingleServerConfig singleServerConfig = config.useSingleServer();
         singleServerConfig.setAddress("redis://" + host + ":" + port);
         singleServerConfig.setDatabase(database);
-        if (password != null && !"".equals(password)) { //有密码
-            singleServerConfig.setPassword(password);
-        }
         return Redisson.create(config);
     }
 }
