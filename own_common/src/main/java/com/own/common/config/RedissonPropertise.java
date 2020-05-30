@@ -2,12 +2,14 @@ package com.own.common.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
 
 /*
  * @author  zf
  * @date  2020/5/23 10:15 下午
- * 只是为了验证下自定义启动器，开发大可不必这么做
+ * 只是为了验证下自定义启动器(可以忽略-。-)
  */
+@Component
 @Data
 @ConfigurationProperties(prefix = "spring.redis")
 public class RedissonPropertise {

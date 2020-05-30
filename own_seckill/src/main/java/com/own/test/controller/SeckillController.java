@@ -5,7 +5,6 @@ import com.own.test.constant.SeckillResponse;
 import com.own.test.service.SecKillService;
 import com.own.test.vo.SecKillVo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

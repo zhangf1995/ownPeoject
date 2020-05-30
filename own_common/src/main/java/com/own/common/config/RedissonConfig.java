@@ -3,30 +3,30 @@ import org.redisson.Redisson;
 import org.redisson.api.RedissonClient;
 import org.redisson.config.Config;
 import org.redisson.config.SingleServerConfig;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.core.env.Environment;
 
 /*
  * @author  zf
  * @date  2020/5/23 10:14 下午
  */
-@Configuration
-//test custom
-//@EnableConfigurationProperties(RedissonPropertise.class)
 public class RedissonConfig {
-    @Value("${spring.redis.database}")
-    private int database;
-    @Value("${spring.redis.host}")
-    private String host;
-    @Value("${spring.redis.port}")
-    private String port;
+
+    @Autowired
+    private Environment env;
 
     /**
-     * RedissonClient,单机模式
+     * RedissonClient,单机模式,简单配置，未做判断
      * */
     @Bean
     public RedissonClient redisson() {
+        Integer database = Integer.valueOf(env.getProperty("spring.redis.database")) ;
+        String host = env.getProperty("spring.redis.host");
+        String port = env.getProperty("spring.redis.port");
+
         Config config = new Config();
         SingleServerConfig singleServerConfig = config.useSingleServer();
         singleServerConfig.setAddress("redis://" + host + ":" + port);

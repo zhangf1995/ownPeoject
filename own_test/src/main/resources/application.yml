@@ -1,8 +1,0 @@
-#后期往nacos配置中心迁移，本地test方便
-
-spring:
-  redis:
-    port: 6379
-    host: 172.16.10.130
-    database: 1
-
