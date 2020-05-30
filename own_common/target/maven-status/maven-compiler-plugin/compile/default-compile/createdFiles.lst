@@ -1,7 +1,0 @@
-com/own/common/config/RedisConfig.class
-com/own/common/constant/ResultConstant.class
-com/own/common/config/RedissonPropertise.class
-com/own/common/config/RedissonConfig.class
-com/own/common/result/Result.class
-com/own/common/OwnCommonApplication.class
-com/own/common/exception/GlobalException.class
